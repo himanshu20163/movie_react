@@ -50,3 +50,31 @@
 .fa-share{
     text-align: start;
 }
+@media screen and (max-width: 1250px) {
+    .main_cards {
+      height:60%;
+    }
+}
+@media screen and (max-width: 950px) {
+    .main_cards {
+      height:35%;
+    }
+}
+@media screen and (max-width: 750px) {
+    .main_cards {
+        width:70%;
+      height:50%;
+    }
+}
+@media screen and (max-width: 650px) {
+    .main_cards {
+        width:90%;
+      height:50%;
+    }
+}
+@media screen and (max-width: 472px) {
+    .main_cards {
+        width:90%;
+      height:30%;
+    }
+}
